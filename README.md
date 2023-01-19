@@ -1,2 +1,2 @@
-# Webscrapping www.climatempo.com.br website. 
-# Getting information about minimum and maximum temperature
+# Webscrap no site www.climatempo.com.br
+# Obtendo informações de temperatura mínima e máxima no site Clima Tempo
